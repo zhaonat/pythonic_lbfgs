@@ -1,5 +1,6 @@
 # pythonic_lbfgs
-implementation of LBFGS using python code, mostly if you want to play around with the lbfgs algorithm
+implementation of LBFGS using python code, mostly if you want to play around with the lbfgs algorithm. Most of this is based off of the book: J. Nocedal and S. J. Wright: Numerical Optimization, second edition, Springer Verlag, Berlin, Heidelberg, New York, 2006
+
 
 Requirements:
 autograd
